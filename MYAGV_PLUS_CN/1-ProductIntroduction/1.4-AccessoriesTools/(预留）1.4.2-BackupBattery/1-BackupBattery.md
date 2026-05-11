@@ -1,22 +1,22 @@
 # 备用电池
 
-> **兼容型号：** myAGV PI 2023、myAGV Jetson Nano 2023
+> **兼容型号：** myAGV PI 2023、myAGV Jetson Nano 2023、myAGV Plus 
 
-它与 myAGV 2023 的主电池规格相同，并采用快速安装方法，可延长 myAGV 2023 系列的运行时间。
+它与 myAGV Plus 的主电池规格相同，并采用快速安装方法，可延长 myAGV 系列的运行时间。
 
 <img src="../../../resources/1-ProductIntroduction/1.4/1.4.2/Battery-product-picture.png" alt="img-1" width="800" height=“auto” />
 
 ## 产品参数
 
-| **参数** | **规格**                               |
-| :------- | :------------------------------------- |
-| 容量     | 6400mAh                                |
-| 电压     | 12.6V                                  |
-| 兼容性   | myAGV PI 2023 , myAGV Jetson Nano 2023 |
+| **参数** | **规格**                                           |
+| :------- | :------------------------------------------------- |
+| 容量     | 6400mAh                                            |
+| 电压     | 12.6V                                              |
+| 兼容性   | myAGV PI 2023 , myAGV Jetson Nano 2023、myAGV Plus |
 
 ## 如何使用
 
-1.从附件盒中取出备用电池，找到 myAGV 左侧的电池仓。
+1.从附件盒中取出备用电池，找到 myAGV Plus左侧的电池仓。
 
 <img src="../../../resources/1-ProductIntroduction/1.4/1.4.2/BackupBattery_1.png" width="800" height=“auto” />
 

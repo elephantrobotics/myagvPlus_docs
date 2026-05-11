@@ -1,8 +1,8 @@
 # 深度相机
 
-> **兼容型号：** myAGV Jetson Nano 2023
+> **兼容型号：** myAGV Jetson Nano 2023、myAGV Plus
 
-Astra Pro 2 深度相机目前只在myAGV JN版本上使用。而且Astra Pro 2 深度相机是选配产品，需要[额外购买](https://item.taobao.com/item.htm?id=745304010906&spm=a312a.7700824.w4002-23353347473.51.3a00b6e28MpDla&skuId=5309239682811)。
+Astra Pro 2 深度相机目前只在myAGV JN版本和myAGV Plus版本上使用。而且Astra Pro 2 深度相机是选配产品，需要[额外购买](https://item.taobao.com/item.htm?id=745304010906&spm=a312a.7700824.w4002-23353347473.51.3a00b6e28MpDla&skuId=5309239682811)。
 
 <img src="../../../resources/1-ProductIntroduction/1.4/1.4.3/AstraPro2_1.png" alt="img-1" width="800" height=“auto” style="zoom:80%;" />
 

@@ -2,7 +2,7 @@
 
 > **Compatible Model：** myAGV Plus,myAGV Jetson Nano 2023
 
-The Astra Pro 2 depth camera is currently only used with the myAGV Plus version. It is an optional product that must be [purchased separately](https://item.taobao.com/item.htm?id=745304010906&spm=a312a.7700824.w4002-23353347473.51.3a00b6e28MpDla&skuId=5309239682811).
+The Astra Pro 2 depth camera is currently only used on the myAGV JN version and the myAGV Plus version. Additionally, the Astra Pro 2 depth camera is an optional product and needs to be [purchased separately](https://item.taobao.com/item.htm?id=745304010906&spm=a312a.7700824.w4002-23353347473.51.3a00b6e28MpDla&skuId=5309239682811).
 
 <img src="../../../resources/1-ProductIntroduction/1.4/1.4.3/AstraPro2_1.png" alt="img-1" width="800" height=“auto” style="zoom:80%;" />
 

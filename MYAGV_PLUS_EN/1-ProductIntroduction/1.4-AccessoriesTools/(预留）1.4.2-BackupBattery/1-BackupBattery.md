@@ -2,7 +2,7 @@
 
 > **Compatible models:** myAGV PI 2023, myAGV Jetson Nano 2023,myAGV Plus
 
-With the same specifications as the primary battery of myAGV Plus and a quick installation method, it extends the runtime of the myAGV Plus series.
+With the same specifications as the primary battery of myAGV Plus and a quick installation method, it extends the runtime of the myAGV series.
 
 <img src="../../../resources/1-ProductIntroduction/1.4/1.4.2/Battery-product-picture.png" alt="img-1" width="800" height=“auto” />
 
