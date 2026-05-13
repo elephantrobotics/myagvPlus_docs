@@ -1,6 +1,6 @@
 # Backup Battery
 
-> **Compatible models:** myAGV PI 2023, myAGV Jetson Nano 2023,myAGV Plus
+> **Compatible models:** myAGV Plus
 
 With the same specifications as the primary battery of myAGV Plus and a quick installation method, it extends the runtime of the myAGV series.
 
@@ -10,13 +10,13 @@ With the same specifications as the primary battery of myAGV Plus and a quick in
 
 | **Parameter** | **Specification**                    |
 | ------------- | ------------------------------------- |
-| Capacity      | 6400mAh                                |
-| Voltage       | 12.6V                                  |
-| Compatibility | myAGV PI 2023 , myAGV Jetson Nano 2023,myAGV Plus |
+| Capacity      | 3200mAh                              |
+| Voltage       | 21.9V                              |
+| Compatibility | myAGV Plus |
 
 ## How to use
 
-1.Take out the spare battery from the accessory box and find the battery compartment on the left side of myAGV.
+1.Take out the spare battery from the accessory box and find the battery compartment on the left side of myAGV Plus.
 
 <img src="../../../resources/1-ProductIntroduction/1.4/1.4.2/BackupBattery_1.png" width="800" height=“auto” />
 
