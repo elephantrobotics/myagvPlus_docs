@@ -1,25 +1,42 @@
-# What is myBlockly?
+## myBlockly是什么？
 
-![](../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg)
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
 
-**myBlockly** is a completely visual modular programming software that is a graphical programming language.
 
-**myBlockly** is similar in function/design to MIT's children's programming language Scratch.
+**myBlockly** 是一款完全可视化的模块化编程软件，是一种图形化编程语言。
 
-When using **myBlockly**, users can build code logic by dragging modules. The process is like building blocks.
+**myBlockly** 在功能/设计上类似于麻省理工学院的儿童编程语言 Scratch。
 
-From the user's perspective, **myBlockly** is a simple and easy-to-use visual tool for generating code. From a developer's perspective, **myBlockly** is a text box that contains the code entered by the user.
+使用 **myBlockly** 时，用户可以通过拖动模块来构建代码逻辑。这个过程就像搭积木一样。
 
-The process of generating code into the text box is the process of the user dragging it in **myBlockly**.
+从用户的角度来看，**myBlockly** 是一个简单易用的可视化代码生成工具。从开发人员的角度来看，**myBlockly** 是一个文本框，其中包含用户输入的代码。
 
-## The operating systems supported by myBlockly are as follows:
+在文本框中生成代码的过程，就是用户在 **myBlockly** 中拖动代码的过程。
 
-- Windows
+## myBlockly安装
 
-- macOS
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly下载.jpg" width=800 />
 
-- Linux arm64
+**myBlockly的下载地址：**
+
+- 官网地址：https://www.elephantrobotics.com/download/
+
+- Github地址：https://github.com/elephantrobotics/myblockly-package/releases
+
+## myBlockly开发使用引导
+
+您可以根据以下指引来使用myBlockly对我们的机械臂进行开发
+
+1.[myBlockly初始使用](./1-myBlocklyFirstUse.md)
+
+2.[控制RGB灯板](./2-controlRGB.md.md)
+
+3.[控制小车运动](./3-controlMove.md)
+
+4.[IO测试](./4-ioTest.md)
+
+5.[Q&A](./5-Q&A.md)
 
 ---
 
-[← Previous Section](../../README.md#chapter-summaryg) | [Next Page →](./1-myBlocklyFirstUse.md)
+[← 基础功能使用页](../../README.md#52-应用用途) | [下一页 →](./1-myBlocklyFirstUse.md)
