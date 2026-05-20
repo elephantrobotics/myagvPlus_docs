@@ -55,10 +55,10 @@
 
 2. 当程序无法运行的时候请检查小工具栏是否断开链接（如下图所示）。
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/4.png" />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/4.png" width=800 />
 
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/5.png" />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/5.png" width=800 />
 
 ## 程序运行
 
@@ -78,11 +78,11 @@
 
 myBlockly的程序以 **.json** 格式保存，点击界面右上角蓝色方框，出现“保存”选项点击后，即可保存程序。
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/保存程序.jpg" />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/保存程序.jpg" width=800 />
 
 同样点击蓝色方框，点击”加载“选项，可以导入已保存的程序。
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/载入程序.jpg" />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/载入程序.jpg"  width=800 />
 
 ---
 
