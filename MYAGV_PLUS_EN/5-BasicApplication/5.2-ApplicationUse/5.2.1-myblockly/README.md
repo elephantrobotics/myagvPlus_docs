@@ -1,6 +1,7 @@
-# What is myBlockly?
+## What is myBlockly?
 
-![](../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg)
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+
 
 **myBlockly** is a completely visual modular programming software that is a graphical programming language.
 
@@ -8,18 +9,34 @@
 
 When using **myBlockly**, users can build code logic by dragging modules. The process is like building blocks.
 
-From the user's perspective, **myBlockly** is a simple and easy-to-use visual tool for generating code. From a developer's perspective, **myBlockly** is a text box that contains the code entered by the user.
+From the user's perspective, **myBlockly** is a simple and easy-to-use visual tool for generating code. From a developer's perspective, myBlockly is a text box that contains the code entered by the user.
 
 The process of generating code into the text box is the process of the user dragging it in **myBlockly**.
 
-## The operating systems supported by myBlockly are as follows:
+## myBlockly installation
 
-- Windows
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly下载.jpg" width=800 />
 
-- macOS
+**The download link for myBlockly is:**
 
-- Linux arm64
+- Official website address: https://www.elephantrobotics.com/download/
+
+- Github address: https://github.com/elephantrobotics/myblockly-package/releases
+
+## MyBlockly Development and Usage Guide
+
+You can use myBlockly to develop our robotic arm according to the following guidelines.
+
+1.[Initial Use of myBlockly](./1-myBlocklyFirstUse.md)
+
+2.[Control the RGB light panel](./2-controlRGB.md.md)
+
+3.[Control the movement of the car](./3-controlMove.md)
+
+4.[IO Test](./4-ioTest.md)
+
+5.[Q&A](./5-Q&A.md)
 
 ---
 
-[← Previous Section](../../README.md#chapter-summaryg) | [Next Page →](./1-myBlocklyFirstUse.md)
+[← 基础功能使用页](../../README.md#52-应用用途) | [下一页 →](./1-myBlocklyFirstUse.md)

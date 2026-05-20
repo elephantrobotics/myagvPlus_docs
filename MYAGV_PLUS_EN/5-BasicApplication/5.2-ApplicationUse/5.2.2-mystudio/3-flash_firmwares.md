@@ -1,50 +1,50 @@
-# 闪存固件
+# Burn the firmware
 
-## 如何使用 myStudio 闪存固件
+## How to Burn Firmware Using myStudio
 
-- 打开 myStudio，选择机器为 `myAGV 2023 for Pi`，等待 `USB Port` 被成功识别。
+- Open myStudio, select the machine as `myAGV Plus`, and wait for the `USB Port` to be successfully recognized.
 
-  ![](../../../resources/5-BasicApplication/5.2/5.2.2/img/agvpi/1.1.png)
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/1.png" width=800 />
 
-- 点击 `LOGIN`
+- Click `LOGIN` button.
 
-  ![](../../../resources/5-BasicApplication/5.2/5.2.2/img/agvpi/1.2.png)
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/2.png" width=800 />
 
-- 点击 `Basic` 进入基本页面
+- Click on `Basic` to enter the basic page.
 
-  ![](../../../resources/5-BasicApplication/5.2/5.2.2/img/agvpi/1.3.png)
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/3.png" width=800 />
 
-- 点击下载固件
+- Click to `Download` the firmware
 
-  ![](../../../resources/5-BasicApplication/5.2/5.2.2/img/agvpi/1.4.png)
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/4.png" width=800 />
 
-- 点击闪光
+- Click to `Flash`
 
-  ![](../../../resources/5-BasicApplication/5.2/5.2.2/img/agvpi/1.5.png)
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/5.png" width=800 />
 
-- 成功燃烧
+- Burn success
 
-  ![](../../../resources/5-BasicApplication/5.2/5.2.2/img/agvpi/1.6.png)
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/6.png" width=800 />
 
 ## FAQ
 
-##### Q：如何验证固件是否刻录成功？
+##### Q：How can one verify whether the firmware has been successfully burned? 
 
-- A：如下图所示，如果出现刻录成功的提示，不一定是刻录成功，如果刻录后机器可以正常控制和使用固件，则视为刻录成功。
+- A：As shown in the figure below, if there is a prompt indicating successful burning, it does not necessarily mean that the burning was successful. If the machine can operate normally after the burning and use the firmware, then it is considered as a successful burning. 
 
-##### Q：如何处理烧录失败？
+##### Q：How to handle burning failure?
 
 - A：
 
-  - 您可以尝试烧录更多次
+  - You can try burning more times
 
-  - 检查刻录过程中是否有任何错误。如果有任何错误，请反馈给售后服务部门
+  - Check if there are any errors during the burning process. If there are any errors, please provide feedback to the after-sales service
 
-  - 使用 Cutecom 检查机器的串行端口是否正常工作。正常情况下，串行端口会返回数据。如果不正常，请重新启动机器
+  - Use Cutecom to check if the machine's serial port is working properly. Under normal circumstances, the serial port will return data. If it is not normal, please restart the machine
 
-##### Q：烧录固件后，机器会失控吗？
+##### Q：After burning the firmware, the machine is out of control?
 
-- A：如果烧录固件后机器无法控制，可以尝试多次烧录。如果无法解决，请联系售后服务。
+- A：If the machine becomes uncontrollable after burning the firmware, you can try burning it multiple times. If it cannot be resolved, please contact after-sales service.
 
 ---
 
