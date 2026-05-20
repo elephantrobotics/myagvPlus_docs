@@ -26,13 +26,16 @@
 
 - 正式开始编程使用前，一定要选择对应的**机器型号**，否则容易造成硬件损害
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/1.png" width=800 />
 
 - 用控制面板控制机器时，一定要选择对应的机器型号，否则容易造成硬件损害
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/2.png" width=800 />
+
 
 ## myBlockly界面展示
+
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/3.png" width=800 />
 
 - 模块栏：
   - 包含程序编写所需的方法模块，可以通过鼠标放入程序编程区进行拼接
@@ -52,23 +55,30 @@
 
 2. 当程序无法运行的时候请检查小工具栏是否断开链接（如下图所示）。
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/4.png" />
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/5.png" />
 
 ## 程序运行
 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/6.png" width=800 />
+
 拖动想要的方法模块，编辑自己的程序（如上图所示），每个模块结构相结合在一起（有ki的声音），再点击“运行”就可以将代码上传到机械臂当中运行了。
 
-**注意：**操作机械臂运动的程序是需要时间来完成的，所以在一个动作之后需要接上一个睡眠模块，给机械臂运动的时间再进行下一个运动。（自己因情况决定所需的时间，机械臂默认设定跑myBlockly最低的睡眠时间不低于0.5s）否则会导致机械臂无法达到理想的运动。
+**注意：** 操作机械臂运动的程序是需要时间来完成的，所以在一个动作之后需要接上一个睡眠模块，给机械臂运动的时间再进行下一个运动。（自己因情况决定所需的时间，机械臂默认设定跑myBlockly最低的睡眠时间不低于0.5s）否则会导致机械臂无法达到理想的运动。
 
 点击左上角“Python”选项可以查阅对应的Python代码，如下图所示。
+
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/7.png" width=800 />
+
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/8.png" width=800 />
 
 ## 程序保存和载入
 
 myBlockly的程序以 **.json** 格式保存，点击界面右上角蓝色方框，出现“保存”选项点击后，即可保存程序。
 
-<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/保存程序.jpg" width=800 />
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/保存程序.jpg" />
 
 同样点击蓝色方框，点击”加载“选项，可以导入已保存的程序。
 

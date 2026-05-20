@@ -12,23 +12,23 @@ API介绍
 
 - 方法模块：1.向前运动
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/14.png" width=800 />
 
 - 方法模块：2.向后运动
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/15.png" width=800 />
 
 - 方法模块：3.向左旋转
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/16.png" width=800 />
 
 - 方法模块：4.向右旋转
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/17.png" width=800 />
 
 - 方法模块：5.停止
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/18.png" width=800 />
 
 - 参数介绍：
   
@@ -40,8 +40,7 @@ API介绍
 
 - 图形代码如下：
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
-
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/19.png" width=800 />
 
 - 实现内容：
   

@@ -12,23 +12,23 @@ API Introduction
 
 - Method Module: 1. Move forward
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/14.png" width=800 /> 
 
 - Method Module: 2. Moving backward
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/15.png" width=800 /> 
 
 - Method module: 3. turn left
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/16.png" width=800 /> 
 
 - Method module: 4. turn right
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/17.png" width=800 />
 
 - Method module: 5. stop
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/18.png" width=800 />
 
 - Parameter Introduction:
   
@@ -40,7 +40,7 @@ Simple demonstration
 
 - The graphic code is as follows:
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/19.png" width=800 />
 
 - The content to be achieved:
   

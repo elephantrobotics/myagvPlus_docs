@@ -4,13 +4,13 @@
 
 > 注意：安装 myStudio 时，安装路径不能有空格。
 
-> **myAGV Pi 2023 系统镜像已安装 myStudio**
+> **myAGV Plus 系统镜像已安装 myStudio**
 >
 > **因此，您无需重新下载。**
 
 **下载链接**
 
-> 您应在 myAGV Pi 2023 系统中下载：Linux 系统版本
+> 您应在 myAGV Plus 系统中下载：Linux 系统版本
 
 **1. [GitHub](https://github.com/elephantrobotics/myStudio)**
 

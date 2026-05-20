@@ -27,16 +27,19 @@ After the preparations are completed, you can download and install myBlockly. Th
 
 - Before officially starting the programming process, it is essential to select the correct **machine model**; otherwise, it is likely to cause damage to the hardware. 
 
-<img src=".. /.. /.. https://resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly interface.jpg" width=800 /> 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/1.png" width=800 /> 
 
 - When controlling the machine through the control panel, make sure to select the corresponding machine model; otherwise, it may cause hardware damage.
 
-<img src=".. /.. /.. https://resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly interface.jpg" width=800 /> 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/2.png" width=800 /> 
 
 ## My Blockly Interface Display 
 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/3.png" width=800 /> 
+
 - Module Bar:
-- Contains the method modules required for program writing. These modules can be dragged into the program programming area for assembly. 
+  
+  Contains the method modules required for program writing. These modules can be dragged into the program programming area for assembly. 
   
 - Small toolbar: 
   
@@ -47,17 +50,19 @@ After the preparations are completed, you can download and install myBlockly. Th
   - Before running the program, you need to select the correct model, port and baud rate in the initialization module or the small toolbar. Otherwise, the program will not run properly.
   
   - Drag the required module methods into this area to assemble them and implement your own program. 
-  - 
+  
 **Note:** 
 
 1. The serial port address is usually /dev/ttyACM0, and the baud rate is generally 115200. 
 2. If the program fails to run, please check whether the small toolbar is disconnected (as shown in the following picture). 
 
-<img src=".. /.. /.. https://resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly interface.jpg" width=800 /> 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/4.png" width=800 /> 
 
-<img src=".. /.. /.. https://resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly interface.jpg" width=800 /> 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/5.png" width=800 /> 
 
-## Program Execution 
+## Program run 
+
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/6.png" width=800 /> 
 
 Drag the desired method module, edit your own program (as shown in the above picture), combine the structures of each module together (with the sound of ki), and then click "Run" to upload the code and run it on the robotic arm. 
 
@@ -65,14 +70,19 @@ Drag the desired method module, edit your own program (as shown in the above pic
 
 Clicking on the "Python" option in the top left corner allows you to view the corresponding Python code, as shown in the following picture. 
 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/7.png" width=800 /> 
+
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/8.png" width=800 /> 
+
 ## Program Saving and Loading 
 The program of myBlockly is saved in the **.json** format. Click the blue box at the top right of the interface, and a "Save" option will appear. After clicking it, the program can be saved. 
 
-<img src=".. /.. /.. /resources/5-BasicApplication/5.2/5.2.1/img/myblockly/Save_Program.jpg" width=800 /> 
+
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/9.png" width=800 /> 
 
 Similarly, click on the blue box and select the "Load" option to import the saved program. 
 
-<img src=".. /.. /.. /resources/5-BasicApplication/5.2/5.2.1/img/myblockly/Loading_Program.jpg" /> 
+<img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/10.png" width=800 /> 
 
 ---
 

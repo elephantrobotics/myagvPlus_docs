@@ -1,4 +1,4 @@
-# 10 Q&A
+# Q&A
 
 This chapter lists common problems with using myBlockly to control robotic arms for reference.
 
@@ -8,13 +8,9 @@ A: This is caused by not installing the pymycobot library when setting up the Py
 
 <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/Q&A/pymycobotinstallation.jpg" style="zoom: 50%;" />
 
-
-
 **Q2: The robot arm is unresponsive because the `sleep` method module is not added**
 
 A: The program to operate the robot arm takes time to complete, so after an action, a `sleep' module needs to be connected to give the robot arm time to move before proceeding with the next movement (the time required depends on the situation, the machine The default setting of the arm is to run myBlockly with a minimum sleep time of no less than 0.5s), otherwise the robotic arm will not be able to achieve the ideal movement.
-
-
 
 **Q3: The `Run` button in the upper right corner cannot be clicked and is gray-green. **
 

@@ -12,11 +12,11 @@ API介绍
 
 - 方法模块：1.设置输出 IO 状态
   
-   <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+   <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/20.png" width=800 />
 
 - 方法模块：2.获取输入 IO 状态
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/21.png" width=800 />
 
 - 参数介绍：
   
@@ -28,14 +28,14 @@ API介绍
 
 - 图形代码如下：
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/22.png" width=800 />
 
 - 实现内容：
   
   设置 io 口1输出为高电平，过5秒后，
   
-  读取 io 口状态，过5秒后
-  
+  读取 io 口状态，
+    
   结束程序。
 
 ---

@@ -12,11 +12,11 @@ API Introduction
 
 - Method module: 1. Set LED mode
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/11.png" width=800 /> 
 
 - Method Module: 2. Set the color of DIY LED
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/12.png" width=800 /> 
 
 - Parameter Introduction:
   
@@ -30,7 +30,7 @@ Simple demonstration
 
 - The graphic code is as follows:
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/13.png" width=800 /> 
 
 - The content to be achieved:
   

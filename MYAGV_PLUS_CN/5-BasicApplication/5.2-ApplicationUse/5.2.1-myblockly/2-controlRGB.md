@@ -13,11 +13,11 @@ API介绍
 
 - 方法模块：1.设置LED模式
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/11.png" width=800 />
 
 - 方法模块：2.设置DIY LED 颜色
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/12.png" width=800 />
 
 - 参数介绍：
   
@@ -31,7 +31,7 @@ API介绍
 
 - 图形代码如下：
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/13.png" width=800 />
 
 - 实现的内容：
   

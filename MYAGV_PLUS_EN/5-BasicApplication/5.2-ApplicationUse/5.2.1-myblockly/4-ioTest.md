@@ -12,11 +12,11 @@ API Introduction
 
 - Method module: 1. Set the output IO status
   
-   <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+   <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/20.png" width=800 />
 
-- Method module: 2. Obtain input IO status
+- Method module: 2. Get input IO status
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/21.png" width=800 />
 
 - Parameter Introduction:
   
@@ -28,13 +28,13 @@ Simple demonstration
 
 - The graphic code is as follows:
   
-  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/myblockly界面.jpg" width=800 />
+  <img src="../../../resources/5-BasicApplication/5.2/5.2.1/img/myblockly/22.png" width=800 />
 
 - The content to be achieved:
   
   Set the output of port 1 as a high level, and after 5 seconds,
   
-  Read the status of the IO port and wait for 5 seconds later.
+  Read the status of the IO port.
   
   End the program.
 
