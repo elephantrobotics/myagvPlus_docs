@@ -10,7 +10,7 @@
 
 ## 2 myStudio latest version and supported platforms
 
-- Latest version: V3.5.7
+- Latest version: V3.6.6
 
 - Available on:
 

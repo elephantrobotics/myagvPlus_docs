@@ -2,6 +2,8 @@
 
 ## How to Burn Firmware Using myStudio
 
+> **Note:** myAGV Plus is only compatible with system burning and is currently not supported on Windows or Mac platforms.
+
 - Open myStudio, select the machine as `myAGV Plus`, and wait for the `USB Port` to be successfully recognized.
 
   <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/1.png" width=800 />
