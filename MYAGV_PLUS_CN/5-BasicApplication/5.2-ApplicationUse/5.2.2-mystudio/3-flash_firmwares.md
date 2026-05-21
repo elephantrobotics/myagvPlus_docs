@@ -2,6 +2,8 @@
 
 ## 如何使用 myStudio 烧录固件
 
+> **注意：**myAGV Plus 仅支持在系统中烧录，暂不支持Windows，mac。
+
 - 打开 myStudio，选择机器为 `myAGV Plus`，等待 `USB Port` 被成功识别。
 
   <img src="../../../resources/5-BasicApplication/5.2/5.2.2/img/agvplus/1.png" width=800 />
