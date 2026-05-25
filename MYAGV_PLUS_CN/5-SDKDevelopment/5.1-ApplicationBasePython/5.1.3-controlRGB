@@ -1,0 +1,62 @@
+# 控制 RGB 灯光
+
+通过 `MyAGVPlus` 提供的灯光控制接口，您可以接管底盘周围的 LED 灯带，并自定义设置你喜欢的颜色和亮度。
+
+## 1 接口说明
+
+控制 RGB 灯带主要涉及两个接口：
+
+- `set_led_mode(mode)`: 设置 LED 模式。`0` 代表恢复系统默认的电量跑马灯模式，`1` 代表切换到开发者自定义的颜色模式。
+- `set_led_color(brightness, color)`: 在自定义模式下，设置灯带的亮度和颜色。`brightness` 范围是 0-255，`color` 是一个包含 RGB 三色的元组，如 `(255, 0, 0)` 代表纯红色。
+
+## 2 简单演示
+
+创建一个新的 Python 文件 `control_rgb.py`，并输入以下代码：
+
+```python
+from pymycobot.myagvplus import MyAGVPlus
+import time
+
+# 初始化 MyAGVPlus 对象
+# 串口路径视实际设备而定，如 /dev/myagvplus_controller 和 /dev/ttyUSB0
+agv = MyAGVPlus('/dev/myagvplus_controller', baudrate=921600, esp32_port='/dev/ttyUSB0', esp32_baud=115200, debug=True)
+
+# 仅开启底层继电器主板供电（测试灯光无需使能电机，因此使用 power_on_only）
+agv.power_on_only()
+
+print("切换 LED 为自定义控制模式")
+agv.set_led_mode(1)
+time.sleep(0.5)
+
+print("设置灯光为: 红色")
+agv.set_led_color(255, (255, 0, 0))
+time.sleep(2)
+
+print("设置灯光为: 绿色")
+agv.set_led_color(255, (0, 255, 0))
+time.sleep(2)
+
+print("设置灯光为: 蓝色")
+agv.set_led_color(255, (0, 0, 255))
+time.sleep(2)
+
+print("恢复系统默认电量指示灯模式")
+agv.set_led_mode(0)
+
+# 运行完毕，切断电源
+agv.power_off()
+```
+
+## 3 运行示例文件
+
+在终端中输入以下命令运行代码：
+
+```bash
+python3 control_rgb.py
+```
+
+执行后，小车的底盘灯带会依次显示亮红色、纯绿色、纯蓝色各 2 秒钟，随后恢复成默认状态的电量跑马灯指示效果。
+
+---
+
+[← 上一页](6.1.2-API.md) | [下一页 →](5.1.4-IO_Control.md)
