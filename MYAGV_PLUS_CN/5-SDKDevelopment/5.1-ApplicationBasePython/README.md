@@ -14,9 +14,9 @@
 
 **跳转到各部分：**
 
-- [环境配置](6.1.1-download.md)
-- [API](6.1.2-API.md)
+- [环境配置](5.1.1-download.md)
+- [API](5.1.2-API.md)
 
 ---
 
-[← SDK 开发指南页](../README.md) | [下一页 →](6.1.1-download.md)
+[← SDK 开发指南页](../README.md) | [下一页 →](5.1.1-download.md)

@@ -14,10 +14,10 @@ The interpreter of **Python** is easily extensible, and new functions and data t
 
 **Skip to sections:**
 
-- [Environment Configuration](6.1.1-download.md)
-- [API](6.1.2-API.md)
+- [Environment Configuration](5.1.1-download.md)
+- [API](5.1.2-API.md)
 
 ---
 
-[← Previous Chapter](../../6-SDKDevelopment/README.md) | [Next Page →](6.1.1-download.md)
+[← Previous Chapter](../../6-SDKDevelopment/README.md) | [Next Page →](5.1.1-download.md)
 
