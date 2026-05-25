@@ -35,8 +35,6 @@
 
 4.[IO测试](./4-ioTest.md)
 
-5.[Q&A](./5-Q&A.md)
-
 ---
 
 [← SDK开发指南页](../../../5-SDKDevelopment/README.md) | [下一页 →](./1-myBlocklyFirstUse.md)
