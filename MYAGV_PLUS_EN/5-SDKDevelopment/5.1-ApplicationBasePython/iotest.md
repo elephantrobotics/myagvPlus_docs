@@ -20,7 +20,7 @@ from pymycobot.myagvplus import MyAGVPlus
 import time
 
 # Initialize the MyAGVPlus object
-agv = MyAGVPlus('/dev/myagvplus_controller', baudrate=921600, esp32_port='/dev/ttyUSB0', esp32_baud=115200, debug=True)
+agv = MyAGVPlus('/dev/myagvplus_controller', baudrate=921600, esp32_port='/dev/ttyACM0', esp32_baud=115200, debug=True)
 
 # IO and peripherals are directly controlled by the motherboard, so powering on the relay is sufficient for testing
 agv.power_on_only()
