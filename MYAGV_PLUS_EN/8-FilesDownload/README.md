@@ -6,15 +6,9 @@ This chapter provides comprehensive downloads of relevant information, including
 
 **Jump to each section**
 
-[8.1-Gitbook Download](8.1-GitbookDownload.md)
-
-[8.2-Product Drawings](8.2-productBrochure.md)
-
-[8.3-Software Documentation](8.3-softwareSource.md)
-
-[8.4-System Information](8.4-SystemInformation/README.md)
-
-[8.5-Publicity Material](8.5-PublicityMaterial.md)
+- [8.1-Product drawing](8.1-productBrochure.md)
+- [8.2-Software Information Acquisition](8.2-System_Image.md)
+- [8.3-Promotional materials](8.3-PublicityMaterial.md)
 
 ---
-[← Previous Chapter](../7-ExamplesRobotsUsing/7.1-InstallationInstructions.md) | [Next Chapter →](../9-AboutUs/README.md)
+[← Previous Chapter](../7-ExamplesRobotsUsing/7.1-AGVPIus 270M5Pi Handle Control/README.md) | [Next Chapter →](../9-AboutUs/README.md)

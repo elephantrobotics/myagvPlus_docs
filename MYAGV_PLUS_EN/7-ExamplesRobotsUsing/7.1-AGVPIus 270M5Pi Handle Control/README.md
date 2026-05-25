@@ -21,4 +21,4 @@ The typical use case scenarios for myagv Plus often involve pairing with robotic
 
 ---
 
-[← Previous Chapter](../6-SDKDevelopment/README.md) | [Next Chapter →](../8-FilesDownload/README.md)
+[← Previous Chapter](../6-SDKDevelopment/README.md) | [Next Chapter →](../../8-FilesDownload/README.md)

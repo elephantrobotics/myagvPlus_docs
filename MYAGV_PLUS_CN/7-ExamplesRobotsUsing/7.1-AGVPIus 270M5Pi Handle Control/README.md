@@ -19,4 +19,4 @@ myagv Plus的典型用例场景通常涉及与机械臂配对组成复合机器�
 
 ---
 
-[← 上一章](../6-SDKDevelopment/README.md) | [下一章 →](../8-FilesDownload/README.md)
+[← 上一章](../../6-SDKDevelopment/README.md) | [下一章 →](../../8-FilesDownload/README.md)

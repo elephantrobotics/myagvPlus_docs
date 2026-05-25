@@ -6,16 +6,10 @@
 
 **跳转到各部分：**
 
-- [8.1-Gitbook 下载](8.1-GitbookDownload.md)
-
-- [8.2-产品图纸](8.2-productBrochure.md)
-
-- [8.3-软件文档](8.3-softwareSource.md)
-
-- [8.4-系统信息](8.4-SystemInformation/README.md)
-
-- [8.5-宣传材料](8.5-PublicityMaterial.md)
+- [8.1-产品图纸](8.1-productBrochure.md)
+- [8.2-软件资料获取](8.2-System_Image.md)
+- [8.3-宣传材料](8.3-PublicityMaterial.md)
 
 ---
 
-[← 上一章](../7-ExamplesRobotsUsing/7.1-InstallationInstructions.md) | [下一章 →](../9-AboutUs/README.md)
+[← 上一章](../7-ExamplesRobotsUsing/7.1-AGVPIus 270M5Pi Handle Control/README.md) | [下一章 →](../9-AboutUs/README.md)
