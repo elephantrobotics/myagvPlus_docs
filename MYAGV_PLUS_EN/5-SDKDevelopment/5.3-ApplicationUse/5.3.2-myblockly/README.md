@@ -34,8 +34,6 @@ You can use myBlockly to develop our robotic arm according to the following guid
 
 4.[IO Test](./4-ioTest.md)
 
-5.[Q&A](./5-Q&A.md)
-
 ---
 
 [← SDK Development Guide Page](../../5-SDKDevelopment/README.md) | [Next Page →](./1-myBlocklyFirstUse.md)

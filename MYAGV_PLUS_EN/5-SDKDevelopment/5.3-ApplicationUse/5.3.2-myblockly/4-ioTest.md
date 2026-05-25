@@ -40,4 +40,4 @@ Simple demonstration
 
 ---
 
-[← Previous page](./3-controlMove.md) | [Next page →](./5-Q&A.md)
+[← Previous page](./3-controlMove.md) | [Next page →](../5.3.3-mystudio/README.md)

@@ -40,4 +40,4 @@ API介绍
 
 ---
 
-[← 上一页](./3-controlMove.md) | [下一页 →](./5-Q&A.md)
+[← 上一页](./3-controlMove.md) | [下一页 →](../5.3.3-mystudio/README.md)
