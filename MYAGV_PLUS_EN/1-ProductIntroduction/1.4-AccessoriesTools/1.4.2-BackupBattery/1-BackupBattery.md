@@ -11,7 +11,7 @@ With the same specifications as the primary battery of myAGV Plus and a quick in
 | **Parameter** | **Specification**                    |
 | ------------- | ------------------------------------- |
 | Capacity      | 3200mAh                              |
-| Voltage       | 21.9V                              |
+| Voltage       | 22.2V                           |
 | Compatibility | myAGV Plus |
 
 ## How to use

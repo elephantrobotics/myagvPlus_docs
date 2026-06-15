@@ -8,15 +8,15 @@
 
 ## 产品参数
 
-| **参数**   | **规格**                              |
-| :--------- | :------------------------------------ |
-| 显示屏尺寸 | 7 inches                              |
-| 原理       | 触摸控制                              |
-| 分辨率     | 1024 \* 600px                         |
-| 接口       | USB/HDMI/Power                        |
-| 兼容性     | Raspberry Pi/NVIDIA/Windows           |
-| 重量       | 约 350g                               |
-| 兼容性     | myAGV PI 2023, myAGV Jetson Nano 2023 |
+| **参数**   | **规格**                                         |
+| :--------- | :----------------------------------------------- |
+| 显示屏尺寸 | 7 inches                                         |
+| 原理       | 触摸控制                                         |
+| 分辨率     | 1024 \* 600px                                    |
+| 接口       | USB/HDMI/Power                                   |
+| 兼容性     | Raspberry Pi/NVIDIA/Windows                      |
+| 重量       | 约 350g                                          |
+| 兼容性     | myAGV PI 2023, myAGV Jetson Nano 2023,myAGV Plus |
 
 ## 如何使用
 

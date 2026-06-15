@@ -9,15 +9,15 @@ users to interact through simple touch gestures. It can be integrated for use wi
 
 ## Product parameters
 
-| **Parameter** | **Specification**                     |
-| :------------ | :------------------------------------ |
-| Display Size  | 7 inches                              |
-| Principle     | Touch Control                         |
-| Resolution    | 1024 \* 600px                         |
-| Interfaces    | USB/HDMI/Power                        |
-| Compatibility | Raspberry Pi/NVIDIA/Windows           |
-| Weight        | Approximately 350g                    |
-| Compatibility | myAGV PI 2023, myAGV Jetson Nano 2023 |
+| **Parameter** | **Specification**                                |
+| :------------ | :----------------------------------------------- |
+| Display Size  | 7 inches                                         |
+| Principle     | Touch Control                                    |
+| Resolution    | 1024 \* 600px                                    |
+| Interfaces    | USB/HDMI/Power                                   |
+| Compatibility | Raspberry Pi/NVIDIA/Windows                      |
+| Weight        | Approximately 350g                               |
+| Compatibility | myAGV PI 2023, myAGV Jetson Nano 2023,myAGV Plus |
 
 ## How to use
 
@@ -25,7 +25,9 @@ users to interact through simple touch gestures. It can be integrated for use wi
 
 <img src="../../../resources/1-ProductIntroduction/1.4/1.4.1/TouchScreen_1.png" width="800" height=“auto” />
 
-2.Fix with screws.<img src="../../../resources/1-ProductIntroduction/1.4/1.4.1/TouchScreen_2.png" width="800" height="auto" />
+2.Fix with screws.
+
+<img src="../../../resources/1-ProductIntroduction/1.4/1.4.1/TouchScreen_2.png" width="800" height="auto" />
 
 3.Take out the connector and tighten the screws according to the position shown in the picture.
 
