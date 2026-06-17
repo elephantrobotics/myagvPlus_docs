@@ -104,7 +104,7 @@ ros2 launch orbbec_camera astra_pro2.launch
 - `/camera/right_ir/image_raw`: The right IR stream image.
 - `/diagnostics`: The diagnostic information of the camera, Currently, the diagnostic information only includes the temperature of the camera.
 
-其他详情可以参考[myAGV-rtabmap建图](../../6-Software Development Guide/6.2-ApplicationBaseROS2/6.2.7-Rtabmap.md)
+其他详情可以参考[myAGV-rtabmap建图](../../6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.6-Rtabmap.md)
 
 
 

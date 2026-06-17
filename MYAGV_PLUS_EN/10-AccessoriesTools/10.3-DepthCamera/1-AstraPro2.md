@@ -106,7 +106,7 @@ The available ROS topics that users can subscribe to are:
 - `/camera/right_ir/image_raw`: The right IR stream image.
 - `/diagnostics`: The diagnostic information of the camera, Currently, the diagnostic information only includes the temperature of the camera.
 
-For more details, refer to [myAGV-rtabmap Mapping Guide](../../../6-SDKDevelopment/6.2-ApplicationBaseROS1/6.2.7-Rtabmap.md)
+For more details, refer to [myAGV-rtabmap Mapping Guide](../../6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.6-Rtabmap.md)
 
 ## Mall link: 
 
