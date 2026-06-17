@@ -18,4 +18,4 @@ This chapter will introduce in detail the initial use of the product after recei
    - [4.3 Power-on Test Guide](4.3-PowerOnDetectionGuide.md)
 
 ----
-[← Previous Chapter](../3-UserNotes/README.md) | [Next Chapter →](../5-Basic features/README.md)
+[← Previous Chapter](../3-UserNotes/README.md) | [Next Chapter →](../5-Basic_features/README.md)

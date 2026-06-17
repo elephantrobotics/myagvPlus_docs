@@ -10,4 +10,4 @@ This chapter provides comprehensive downloads of relevant information, including
 - [8.2-Promotional materials](8.2-PublicityMaterial.md)
 
 ---
-[← Previous Chapter](../7-Development case/7.1-AGVPIus 270M5Pi Handle Control/README.md) | [Next Chapter →](../9-AboutUs/9.1_company.md)
+[← Previous Chapter](../7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/README.md) | [Next Chapter →](../9-AboutUs/9.1_company.md)

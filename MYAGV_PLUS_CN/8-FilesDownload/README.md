@@ -11,5 +11,5 @@
 
 ---
 
-[← 上一章](../7-Development case/7.1-AGVPIus 270M5Pi Handle Control/README.md) | [下一章 →](../9-AboutUs/9.1_company.md)
+[← 上一章](../7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/README.md) | [下一章 →](../9-AboutUs/9.1_company.md)
 
