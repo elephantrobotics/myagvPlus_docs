@@ -53,7 +53,7 @@
 
 ### 4.1 Overview of surface electrical interfaces
 
-<img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\dianqi_1.png" width="800" height="auto" />
+<img src="../resources/2-ProductFeature/2.4/dianqi_1.png" width="800" height="auto" />
 
 | Number |              Interface              | Definition |                       Function                       |         Remark          |
 | :----: | :---------------------------------: | :--------: | :--------------------------------------------------: | :---------------------: |
@@ -113,7 +113,7 @@
 >
 >   5. If a certain GPIO is set to the output mode and outputs a high level signal, the circuit connected to the LED is shown in Figure 2 , and the LED will light up.
 >
-> <img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\IO.png" width="800" height="auto" />
+> <img src="../resources/2-ProductFeature/2.4/IO.png" width="800" height="auto" />
 >
 > 6. In the case of using other functions, the IO function is unavailable, and the other function table of the function interface is shown in Figure 3 .
 >
@@ -131,11 +131,11 @@
 
 ### 4.2 Overview of the magazine electrical interface
 
-<img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\Battery.png" width="800" height="auto" />
+<img src="../resources/2-ProductFeature/2.4/Battery.png" width="800" height="auto" />
 
  <br>
 
-<img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\pump.png" width="800" height="auto" />
+<img src="../resources/2-ProductFeature/2.4/pump.png" width="800" height="auto" />
 
 | Number |       Interface        | Definition |                    Function                     | Remark |
 | :----: | :--------------------: | :--------: | :---------------------------------------------: | :----: |

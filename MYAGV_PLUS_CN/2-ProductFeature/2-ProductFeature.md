@@ -53,7 +53,7 @@
 
 ### 4.1 表面电气接口概述
 
-<img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\dianqi_1.png" width="800" height="auto" />
+<img src="../resources/2-ProductFeature/2.4/dianqi_1.png" width="800" height="auto" />
 
 | 序号 |       接口       |    定义    |              功能              |          备注           |
 | :--: | :--------------: | :--------: | :----------------------------: | :---------------------: |
@@ -113,7 +113,7 @@
 >
 > 5. 如果将某个 GPIO 设置为输出模式并输出高电平信号，与 LED 连接的电路如图 2 所示，LED 就会亮起。
 >
-> <img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\IO.png" width="800" height="auto" />
+> <img src="../resources/2-ProductFeature/2.4/IO.png" width="800" height="auto" />
 >
 > 6. 在使用其他功能的情况下，IO 功能不可用，功能界面的其他功能表如图 3 所示。
 >
@@ -131,11 +131,11 @@
 
 ### 4.2 弹仓电气接口概述
 
-<img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\Battery.png" width="800" height="auto" />
+<img src="../resources/2-ProductFeature/2.4/Battery.png" width="800" height="auto" />
 
  <br>
 
-<img src="D:\xuniji\GitBook文档\myagvPlus_docs\MYAGV_PLUS_CN\resources\2-ProductFeature\2.4\pump.png" width="800" height="auto" />
+<img src="../resources/2-ProductFeature/2.4/pump.png" width="800" height="auto" />
 
 | 序号 |     接口     | 定义 |            功能            | 备注 |
 | :--: | :----------: | :--: | :------------------------: | :--: |
