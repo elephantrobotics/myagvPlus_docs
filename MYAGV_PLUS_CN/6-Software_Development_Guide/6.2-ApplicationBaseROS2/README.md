@@ -14,11 +14,11 @@ ROS 2 继承了 ROS1“模块化、节点化、代码复用” 的核心理念�
 
 **跳转到各部分：**
 
-- [6.2.1 环境搭建](6.2.1-ROS2_Installation.md)
+- [6.2.1 ROS2介绍](6.2.1-ROS2_Introduction.md)
 - [6.2.2 ROS2 基础](6.2.2-Using_Common_ROS2_Tools.md)
 - [6.2.3 基础控制](6.2.3-Basic_Control_Based_on_ROS2.md)
 - [6.2.4 Gmapping 实时建图](6.2.4-Real-time_Mapping_with_Gmapping.md)
-- [6.2.5 地图导航](6.2.5-Navigation-Map_Navigation.md)
+- [6.2.5 地图导航](6.2.5-Navigation2.md)
 - [6.2.6 Rtabmap建图与导航](6.2.6-Rtabmap.md)
 
 ---
