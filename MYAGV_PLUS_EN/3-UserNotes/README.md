@@ -22,4 +22,4 @@ By thoroughly reading this section, users will better understand how to use the 
 ----
 
 If you have already read all the content in this chapter, please proceed to the next chapter.   <br>
-[← Previous Chapter](../2-ProductFeature/README.md) | [Next Chapter →](../4-FirstInstallAndUse/README.md)
+[← Previous Chapter](../2-ProductFeature/2-ProductFeature.md) | [Next Chapter →](../4-FirstInstallAndUse/README.md)
