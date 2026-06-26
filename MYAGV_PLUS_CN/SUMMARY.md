@@ -2,12 +2,12 @@
 
 * [Introduction](README.md)
 
-# 产品信息
+## 产品信息
 
 - [1 产品介绍](1-ProductIntroduction/1-ProductIntroduction.md)
 - [2 产品特性](2-ProductFeature/2-ProductFeature.md)
 
-# 基础设施
+## 基础设施
 
 - [3 用户须知](3-UserNotes/README.md)
   - [3.1 安全须知](3-UserNotes/3.1-SafetyInstruction.md)
@@ -23,7 +23,7 @@
   - [4.2 产品开箱指南](4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md)
   - [4.3 开机检测指南](4-FirstInstallAndUse/4.3-PowerOnDetectionGuide.md)
 
-# 功能与应用
+## 功能与应用
 
 - [5 基础功能](5-Basic_features/README.md)
   - [5.1 myblockly介绍](5-Basic_features/5.1-myblockly/README.md)
@@ -49,7 +49,7 @@
     - [6.2.2 ROS2 基础工具](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.2-Using_Common_ROS2_Tools.md)
     - [6.2.3 ROS2 基本控制](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.3-Basic_Control_Based_on_ROS2.md)
     - [6.2.4 雷达建图 - Gmapping](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.4-Real-time_Mapping_with_Gmapping.md)
-    - [6.2.5 地图导航](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.5-Navigation2.md)
+    - [6.2.5 地图导航 - Navigation2](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.5-Navigation2.md)
     - [6.2.6 Rtabmap建图和导航](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.6-Rtabmap.md)
 - [7 案例开发]()
   - [7.1 myAGV Plus + 270M5 手柄遥控案例](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/README.md)
@@ -58,7 +58,7 @@
   - [8.1 产品图纸](8-FilesDownload/8.1-productBrochure.md)
   - [8.2 宣传材料](8-FilesDownload/8.2-PublicityMaterial.md)
 
-# 支持与服务
+## 支持与服务
 
 - [9 关于我们](9-AboutUs/9.1_company.md)
 - [10 周边配件](10-AccessoriesTools/README.md)
