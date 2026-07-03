@@ -61,24 +61,21 @@
 
 
 - [7 Case Development]()
-
   - [7.1 myAGV Plus 270M5 Handle Remote Control Case](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/README.md)
-
     - [7.1.1 Installation Instructions](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.1-InstallationInstructions.md)
 
     - [7.1.2 Communication Control](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.2-CommunicationsControl.md)
 
-    - [7.1.3 Control Case](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.3-PS2 270.md)
-
+    - [7.1.3 Control Case](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.3-PS2+270.md)
 
   - [7.2 Pedestrian Following Case](7-Development_case/7.2-Pedestrian_tracking_feature/7.2.1-Pedestrian_following_feature.md)
 
 
-- [8 Related Downloadable Resources](8-FilesDownload/README.md)
+[8 Related Downloadable Resources](8-FilesDownload/README.md)
 
-  - [8.1 Product Drawings](8-FilesDownload/8.1-productBrochure.md)
+- [8.1 Product Drawings](8-FilesDownload/8.1-productBrochure.md)
 
-  - [8.2 Promotional Materials](8-FilesDownload/8.2-PublicityMaterial.md)
+- [8.2 Promotional Materials](8-FilesDownload/8.2-PublicityMaterial.md)
 
 
 ## Support and Services

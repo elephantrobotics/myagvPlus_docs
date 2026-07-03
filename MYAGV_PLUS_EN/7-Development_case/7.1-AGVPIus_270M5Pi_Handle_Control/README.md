@@ -18,7 +18,7 @@ The typical use case scenarios for myagv Plus often involve pairing with robotic
 
 - [7.1.1 Installation Instructions](7.1.1-InstallationInstructions.md)
 - [7.1.2 Software Information Acquisition](7.1.2-CommunicationsControl.md)
-- [7.1.3 Control case](7.1.3-PS2+270.md)
+- [7.1.3 Control case](7.1.3-PS2.md)
 
 ---
 

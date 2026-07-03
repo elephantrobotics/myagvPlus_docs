@@ -16,7 +16,7 @@ myagv Plus的典型用例场景通常涉及与机械臂配对组成复合机器�
 
 - [7.1.1 安装说明](7.1.1-InstallationInstructions.md)
 - [7.1.2 通信控制](7.1.2-CommunicationsControl.md)
-- [7.1.3 控制案例](7.1.3-PS2+270.md)
+- [7.1.3 控制案例](7.1.3-PS2.md)
 
 ---
 

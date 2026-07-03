@@ -57,7 +57,7 @@
   - [7.1 myAGV Plus + 270M5 手柄遥控案例](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/README.md)
     - [7.1.1 安装说明](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.1-InstallationInstructions.md)
     - [7.1.2 通信控制](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.2-CommunicationsControl.md)
-    - [7.1.3 控制案例](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.3-PS2+270.md)
+    - [7.1.3 控制案例](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.3-PS2.md)
   - [7.2 行人跟随案例](7-Development_case/7.2-Pedestrian_tracking_feature/7.2.1-Pedestrian_following_feature.md)
 - [8 相关资料下载](8-FilesDownload/README.md)
   - [8.1 产品图纸](8-FilesDownload/8.1-productBrochure.md)
