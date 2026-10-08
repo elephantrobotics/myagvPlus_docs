@@ -58,6 +58,7 @@
     - [6.2.4 Lidar Mapping - Gmapping](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.4-Real-time_Mapping_with_Gmapping.md)
     - [6.2.5 Map Navigation](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.5-Navigation-Map_Navigation.md)
     - [6.2.6 Rtabmap Mapping and Navigation](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.6-Rtabmap.md)
+    - [6.2.7 Auto recharge feature](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.7-Automatic_recharge.md)
 
 
 - [7 Case Development]()
