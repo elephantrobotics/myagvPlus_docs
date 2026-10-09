@@ -30,7 +30,7 @@ source /home/elephant/humble_ws/install/setup.bash
 
 节点图：
 
- ![1](..\..\resources\6-SDKDevelopment\6.4/1.png)
+ ![1](..\..\resources\6-SDKDevelopment\6.4\1.png)
 
 **终端 1 —— 启动 Isaac：**
 
@@ -46,21 +46,21 @@ GUI 内 `File → Open`，选择双击：
 ~/humble_ws/src/myagv_plus_isaac_description/urdf/myagv_plus_isaac_rollers/myagv_plus_isaac_rollers.usda
 ```
 
-![2](..\..\resources\6-SDKDevelopment\6.4/2.png)
+![2](..\..\resources\6-SDKDevelopment\6.4\2.png)
 
 点击` Don't Save`
 
-![3](..\..\resources\6-SDKDevelopment\6.4/3.png)
+![3](..\..\resources\6-SDKDevelopment\6.4\3.png)
 
 **打开控制图：**
 
 `Window → Graph Editors → Action Graph`，选中 `Constant Double3` 节点，在右侧 Property 面板改 `Value`。
 
-![4](..\..\resources\6-SDKDevelopment\6.4/4.png)
+![4](..\..\resources\6-SDKDevelopment\6.4\4.png)
 
-![5](..\..\resources\6-SDKDevelopment\6.4/5.png)
+![5](..\..\resources\6-SDKDevelopment\6.4\5.png)
 
-![6](..\..\resources\6-SDKDevelopment\6.4/6.png)
+![6](..\..\resources\6-SDKDevelopment\6.4\6.png)
 
 **测试：**
 
@@ -81,7 +81,7 @@ GUI 内 `File → Open`，选择双击：
 
 节点图：
 
- ![7](..\..\resources\6-SDKDevelopment\6.4/7.png)
+ ![7](..\..\resources\6-SDKDevelopment\6.4\7.png)
 
 **终端 1 —— 启动 Isaac：**
 
@@ -97,7 +97,7 @@ GUI 内 `File → Open`，选择双击：
 ~/humble_ws/src/myagv_plus_isaac_description/urdf/myagv_plus_isaac_rollers/myagv_plus_isaac_rollers_ros2.usda
 ```
 
-![8](..\..\resources\6-SDKDevelopment\6.4/8.png)
+![8](..\..\resources\6-SDKDevelopment\6.4\8.png)
 
 点击 **Play(▶)**。
 
@@ -121,7 +121,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -p stamped:=fals
 
 节点图：
 
- ![9](..\..\resources\6-SDKDevelopment\6.4/9.png)
+ ![9](..\..\resources\6-SDKDevelopment\6.4\9.png)
 
 **终端 1 —— 启动 Isaac：**
 
@@ -137,7 +137,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -p stamped:=fals
 ~/humble_ws/src/myagv_plus_isaac_description/urdf/myagv_plus_isaac_rollers/myagv_plus_isaac_rollers_ros2_lidar.usda
 ```
 
-![10](..\..\resources\6-SDKDevelopment\6.4/10.png)
+![10](..\..\resources\6-SDKDevelopment\6.4\10.png)
 
 点击 **Play(▶)**。
 
@@ -157,7 +157,7 @@ ros2 topic hz /scan
 
 **预期结果**：`/scan` 持续发布，频率接近 10 Hz。键盘遥控移动底盘时，雷达点云随之变化。
 
-![11](..\..\resources\6-SDKDevelopment\6.4/11.png)
+![11](..\..\resources\6-SDKDevelopment\6.4\11.png)
 
 ---
 
@@ -190,7 +190,7 @@ ros2 launch isaacsim_bringup sim_bringup.launch.py use_rviz:=true
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
 
-![12](..\..\resources\6-SDKDevelopment\6.4/12.png)
+![12](..\..\resources\6-SDKDevelopment\6.4\12.png)
 
 **预期结果**：键盘遥控移动底盘时，雷达点云随之变化。
 
@@ -249,7 +249,7 @@ ros2 run nav2_map_server map_saver_cli \
 
 **预期结果**：`map.pgm` / `map.yaml` 落盘于 `myagv_plus_navigation2/map/`，RViz 中地图形状与场景吻合；
 
-![13](..\..\resources\6-SDKDevelopment\6.4/13.png)
+![13](..\..\resources\6-SDKDevelopment\6.4\13.png)
 
 ---
 
@@ -286,4 +286,4 @@ ros2 launch myagv_plus_navigation2 navigation2_active.launch.py use_sim_time:=tr
 
 **预期结果**：定位成功，激光与地图基本重合；能下发目标点并规划路径到达，遇到障碍物能绕行。
 
-![14](..\..\resources\6-SDKDevelopment\6.4/14.png)
+![14](..\..\resources\6-SDKDevelopment\6.4\14.png)

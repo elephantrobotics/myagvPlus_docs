@@ -20,6 +20,7 @@ ROS 2 继承了 ROS1“模块化、节点化、代码复用” 的核心理念�
 - [6.2.4 Gmapping 实时建图](6.2.4-Real-time_Mapping_with_Gmapping.md)
 - [6.2.5 地图导航](6.2.5-Navigation2.md)
 - [6.2.6 Rtabmap建图与导航](6.2.6-Rtabmap.md)
+- [6.2.7 自动回充功能](6.2.7-Automatic_recharge.md)
 
 ---
 
