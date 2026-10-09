@@ -11,6 +11,10 @@ To meet the diverse application needs of the robot in different scenarios, we ha
 - [6.2 Developing with ROS2](6.2-ApplicationBaseROS2/README.md)<br>
 
   ROS 2 is open-source and serves as a backend or auxiliary operating system for robot control. ROS 2 provides a high-performance, highly reliable navigation stack, including SLAM technology and modern path planning algorithms. This allows developers to achieve stable autonomous navigation, dynamic obstacle avoidance, and global path planning for mobile robots, enabling them to move safely and efficiently in unknown and complex environments.
+  
+- [6.3 Isaac Sim Simulation](6.3-IsaacSim/myAGV_Plus_Isaac_Sim.md)<br>
+
+  myAGV Plus supports complete simulation and verification of robot modelling, sensor simulation, chassis movement, SLAM mapping and Nav2 navigation in the Isaac Sim simulation environment. The simulation offers two control schemes: the native Isaac Sim control stack and the ros2_control stack, which is the same as real hardware. The parameters and algorithm logic debugged in the simulation environment can be directly applied to the actual myAGV‑Plus robot, reducing the risk of real-world testing.
 
 ---
 

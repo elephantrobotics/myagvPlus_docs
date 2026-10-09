@@ -54,6 +54,7 @@
     - [6.2.5 地图导航 - Navigation2](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.5-Navigation2.md)
     - [6.2.6 Rtabmap建图和导航](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.6-Rtabmap.md)
     - [6.2.7 自动回充功能](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.7-Automatic_recharge.md)
+  - [6.3 Isaac Sim 仿真](6-Software_Development_Guide/6.3-IsaacSim/myAGV_Plus_Isaac_Sim.md)
 - [7 案例开发]()
   - [7.1 myAGV Plus + 270M5 手柄遥控案例](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/README.md)
     - [7.1.1 安装说明](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.1-InstallationInstructions.md)

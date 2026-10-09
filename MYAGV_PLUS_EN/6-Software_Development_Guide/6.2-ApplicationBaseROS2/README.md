@@ -20,6 +20,7 @@ ROS 2 inherits the core concept of ROS 1: "modularity, node-based design, and co
 - [6.2.4 Gmapping Real-time Mapping](6.2.4-Real-time_Mapping_with_Gmapping.md)
 - [6.2.5 Map Navigation](6.2.5-Navigation-Map_Navigation.md)
 - [6.2.6 Rtabmap mapping and navigation](6.2.6-Rtabmap.md)
+- [6.2.7 Auto recharge feature](6.2.7-Automatic_recharge.md)
 
 ---
 

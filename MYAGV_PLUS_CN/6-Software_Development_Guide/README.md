@@ -11,6 +11,10 @@
 - [6.2 基于ROS2开发使用](6.2-ApplicationBaseROS2/README.md)<br>
 
   ROS 2 是开放源码的，是用于机器人控制的后置操作系统或辅助操作系统。ROS 2 提供高性能、高可靠性的导航堆栈，包含 SLAM技术与现代化路径规划算法。这使开发人员能够为移动机器人实现稳定的自主导航、动态避障和全局路径规划，让机器人在未知复杂环境中安全高效地移动。
+  
+- [6.3 Isaac Sim 仿真](6.3-IsaacSim/myAGV_Plus_Isaac_Sim.md)<br>
+
+  myAGV Plus 支持在 Isaac Sim 仿真环境中完成机器人建模、传感器仿真、底盘运动、SLAM 建图与 Nav2 导航全流程仿真验证。仿真分为两套控制方案：Isaac Sim 原生控制栈、ros2_control 真实硬件同款控制栈。在仿真环境调试完成的参数、算法逻辑，可以直接迁移到实体 myAGV‑Plus 机器人使用，降低实机调试风险。
 
 ---
 

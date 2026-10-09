@@ -44,21 +44,30 @@
 - [6 Software Development Guide](6-Software_Development_Guide/README.md)
 
   - [6.1 Using Python for Development](6-Software_Development_Guide/6.1-ApplicationBasePython/README.md)
+
     - [6.1.1 Environment Setup](6-Software_Development_Guide/6.1-ApplicationBasePython/6.1.1-download.md)
     - [6.1.2 API Usage Instructions](6-Software_Development_Guide/6.1-ApplicationBasePython/6.1.2-API.md)
     - [6.1.3 RGB Control](6-Software_Development_Guide/6.1-ApplicationBasePython/6.1.3-controlRGB.md)
     - [6.1.4 Controlling Car Movement](6-Software_Development_Guide/6.1-ApplicationBasePython/6.1.4-controlmove.md)
     - [6.1.5 Reading IO Status and Peripheral Control](6-Software_Development_Guide/6.1-ApplicationBasePython/6.1.5-iotest.md)
 
-
   - [6.2 Developing with ROS2](6-Software_Development_Guide/6.2-ApplicationBaseROS2/README.md)
+
     - [6.2.1 Installation and Environment Setup](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.1-ROS2_Installation.md)
+
     - [6.2.2 Basic ROS2 Tools](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.2-Using_Common_ROS2_Tools.md)
+
     - [6.2.3 Basic ROS2 Control](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.3-Basic_Control_Based_on_ROS2.md)
+
     - [6.2.4 Lidar Mapping - Gmapping](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.4-Real-time_Mapping_with_Gmapping.md)
+
     - [6.2.5 Map Navigation](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.5-Navigation-Map_Navigation.md)
+
     - [6.2.6 Rtabmap Mapping and Navigation](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.6-Rtabmap.md)
+
     - [6.2.7 Auto recharge feature](6-Software_Development_Guide/6.2-ApplicationBaseROS2/6.2.7-Automatic_recharge.md)
+
+  - [6.3 Isaac Sim simulation](6-Software_Development_Guide/6.3-IsaacSim/myAGV_Plus_Isaac_Sim.md)
 
 
 - [7 Case Development]()
