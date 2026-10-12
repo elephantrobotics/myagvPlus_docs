@@ -4,6 +4,8 @@
 
 本手册按控制栈分两章：一、Isaac Sim 自带控制栈；二、ros2_control 路线（真车同款控制栈）。每章内逐项给出启动命令与操作步骤。
 
+[GitHub仓库地址](https://github.com/elephantrobotics/myagv_plus_isaac_sim)
+
 **通用前置**（每个新开的终端执行 ROS2 命令前先执行）：
 
 ```bash

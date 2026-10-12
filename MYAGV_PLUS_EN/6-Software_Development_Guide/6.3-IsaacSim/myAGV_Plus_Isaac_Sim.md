@@ -4,6 +4,8 @@
 
 This manual is divided into two chapters according to the control stack: 1. The built-in control stack of Isaac Sim; 2. The ros2_control route (the same control stack as the real car). Each chapter lists the launch commands and operating steps item by item.
 
+[GitHub repo link](https://github.com/elephantrobotics/myagv_plus_isaac_sim)
+
 **General Preparation** (Run this before executing any ROS2 commands in each newly opened terminal):
 
 ```bash
