@@ -21,6 +21,8 @@
     "theme-fexa":{
       "search-placeholder":"输入关键字搜索", 
       "logo":"/photo/logo.png",
+      "logoLink":"https://www.elephantrobotics.com/myagv-plus-cn/",
+      "logoLinkTitle":"返回 myAGV Plus 产品页",
       "favicon": "./favicon.ico"
     },
     "password": {
