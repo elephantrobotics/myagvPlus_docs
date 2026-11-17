@@ -76,7 +76,7 @@
 
     - [7.1.2 Communication Control](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.2-CommunicationsControl.md)
 
-    - [7.1.3 Control Case](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.3-PS2+270.md)
+    - [7.1.3 Control Case](7-Development_case/7.1-AGVPIus_270M5Pi_Handle_Control/7.1.3-PS2.md)
 
   - [7.2 Pedestrian Following Case](7-Development_case/7.2-Pedestrian_tracking_feature/7.2.1-Pedestrian_following_feature.md)
 
